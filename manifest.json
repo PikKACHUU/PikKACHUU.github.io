@@ -1,0 +1,15 @@
+{
+  "short_name": "PikKACHUU",
+  "name": "PikKACHUU's Webpage",
+  "icons": [{
+    "src": "imgs/avatar.jpg",
+    "sizes": "96x96",
+    "type": "image/jpg"
+  }],
+  "scope": "./",
+  "start_url": "index.html",
+  "display": "standalone",
+  "orientation": "landscape",
+  "theme_color": "#FFFAFA",
+  "background_color": "#FFF5EE"
+}
